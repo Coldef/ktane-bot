@@ -9,4 +9,5 @@ The bot is currently implemented in Finnish, here's an early succesful run with 
 https://youtu.be/_ZHw28KNT7g
 
 Original English manual for KTaNE: https://www.bombmanual.com/
+
 Finnish manual: https://www.bombmanual.com/fi/index.html
