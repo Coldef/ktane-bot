@@ -1,0 +1,16 @@
+kenttä	3.505 MHz
+potku	3.515 MHz
+kettu	3.522 MHz
+hissi	3.532 MHz
+katko	3.535 MHz
+takoi	3.542 MHz
+rikos	3.545 MHz
+pirinä	3.552 MHz
+pentti	3.555 MHz
+heheh	3.565 MHz
+pihdit	3.572 MHz
+koita	3.575 MHz
+tulos	3.582 MHz
+pommi	3.592 MHz
+passi	3.595 MHz
+lahti	3.600 MHz
