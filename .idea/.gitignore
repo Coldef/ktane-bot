@@ -1,2 +1,4 @@
 # Default ignored files
 /workspace.xml
+
+ktane-bot/__pycache__
